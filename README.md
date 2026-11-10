@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Govind245AI/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Govind245AI/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Govind245AI/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Govind245AI/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Govind245AI/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Govind245AI/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
